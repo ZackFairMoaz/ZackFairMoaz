@@ -41,7 +41,7 @@ I am a MLOps Engineer | AWS Certified Cloud Practitioner | Game developer (Unrea
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-tahir-08469b219/)
 
-![Linkedin_Badge](https://img.shields.io/endpoint?color=blue&label=Linkedin&logo=Linkedin&logoColor=Blue&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday)
+[![Linkedin badge](https://img.shields.io/badge/Likedin-MoazTahir-blue.svg)](https://www.linkedin.com/in/moaz-tahir-08469b219/)
 
 ### :hammer_and_wrench: Languages and Tools :
 

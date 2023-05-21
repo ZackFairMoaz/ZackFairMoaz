@@ -31,7 +31,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 😃.
+I am a MLOps Engineer | AWS Certified Cloud Practitioner | Game developer (Unreal Engine) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 😃
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 

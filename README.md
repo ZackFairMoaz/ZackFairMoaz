@@ -33,11 +33,11 @@
 ### :man_technologist: About Me :
 I am a MLOps Engineer | AWS Certified Cloud Practitioner | Game developer (Unreal Engine) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 😃
 
-- :telescope: Currently a senior, about to graduate at the National University of Computing and Emerging Sciences with my major in Artificial Intelligence
+- :telescope: Currently a senior at the National University of Computing and Emerging Sciences with my major in Artificial Intelligence
 
 - :seedling: Exploring Unreal engine and MLOps/DevOps tools techniques
 
-- :zap: In my free time, I enhance my skilset, play games or just do coding for fun!
+- :zap: In my free time, I enhance my skillset, play games or just do coding for fun!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-tahir-08469b219/)
 

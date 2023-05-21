@@ -35,11 +35,11 @@ I am a MLOps Engineer | AWS Certified Cloud Practitioner | Game developer (Unrea
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Unreal engine 
+- :seedling: Exploring Unreal engine and MLOps/DevOps tools techniques
 
-- :zap: In my free time, I enhance my skilset or just do coding for fun!
+- :zap: In my free time, I enhance my skilset, play games or just do coding for fun!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-tahir-08469b219/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moaz-tahir-08469b219/)
 
 ### :hammer_and_wrench: Languages and Tools :
 

@@ -4,7 +4,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRkYTcxYzE2ZDIyYzI4OGVhZmNhNDgzYTI3YjJiZmRlOTE1MDJiMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/KzJkzjggfGN5Py6nkT/giphy.gif" width="200"/>
 </div>
 
-(https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 
 

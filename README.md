@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRkYTcxYzE2ZDIyYzI4OGVhZmNhNDgzYTI3YjJiZmRlOTE1MDJiMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/KzJkzjggfGN5Py6nkT/giphy.gif" width="200"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

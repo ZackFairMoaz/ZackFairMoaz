@@ -31,11 +31,11 @@
 
 
 ### :man_technologist: About Me :
-I am a MLOps Engineer | AWS Certified Cloud Practitioner | Game developer (Unreal Engine) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 😃
+I am a MLOps Engineer | AWS Certified | Azure Certified <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 😃
 
-- :telescope: Currently a senior at the National University of Computing and Emerging Sciences with my major in Artificial Intelligence
+- :telescope: A Graduate at the National University of Computing and Emerging Sciences with my major in Artificial Intelligence
 
-- :seedling: Exploring Unreal engine and MLOps/DevOps tools techniques
+- :seedling: Currently exploring and learning MLOps/DevOps tools and techniques to enhance my knowledge
 
 - :zap: In my free time, I enhance my skillset, play games or just do coding for fun!
 
@@ -75,18 +75,3 @@ I am a MLOps Engineer | AWS Certified Cloud Practitioner | Game developer (Unrea
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZackFairMoaz&theme=dark&background=000000)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackFairMoaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**ZackFairMoaz/ZackFairMoaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -35,9 +35,9 @@ I am a MLOps Engineer | AWS Certified | Azure Certified <img src="https://media.
 
 - :telescope: A Graduate at the National University of Computing and Emerging Sciences with my major in Artificial Intelligence
 
-- :seedling: Currently exploring and learning MLOps/DevOps tools and techniques to enhance my knowledge
+- :seedling: Currently exploring and learning Frontend/Backend development tools and techniques to enhance my knowledge
 
-- :zap: In my free time, I enhance my skillset, play games or just do coding for fun!
+- :zap: In my free time, I enhance my skillset, play games or do coding for fun!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/moaz-tahir-08469b219/)
 

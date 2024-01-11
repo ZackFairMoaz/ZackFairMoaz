@@ -26,13 +26,13 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am a MLOps Engineer | AWS Certified | Azure Certified <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 😃
+I am a Machine Learning Engineer | AWS Certified | Azure Certified <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> AI Developer 😃
 
-- :telescope: A Graduate at the National University of Computing and Emerging Sciences with my major in Artificial Intelligence
+- :telescope: A Graduate of the National University of Computing and Emerging Sciences with a major in Artificial Intelligence
 
-- :seedling: Currently exploring and learning Machine learning, NLP, CV development along with tools and techniques to enhance my knowledge
+- :seedling: Currently exploring and learning Machine learning, NLP/LLM , and CV development along with tools and techniques to enhance my knowledge
 
-- :zap: In my free time, I enhance my skillset, play games or do coding for fun!
+- :zap: In my free time, I enhance my skillset, play games, or do coding for fun!
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/moaz-tahir-08469b219/)
 
@@ -63,7 +63,6 @@ I am a MLOps Engineer | AWS Certified | Azure Certified <img src="https://media.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="" alt="" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="" alt="" width="40" height="40"/>&nbsp;
 </div>
-
 
 ### :fire: My Stats :
 <div id="Stats" align="center">

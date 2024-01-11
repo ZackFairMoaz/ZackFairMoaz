@@ -67,7 +67,7 @@ I am a Machine Learning Engineer | AWS Certified | Azure Certified <img src="htt
 ### :fire: My Stats :
 <div id="Stats" align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=zackfairmoaz&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ZackFairMoaz&theme=transparent)](https://git.io/streak-stats)
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zackfairmoaz&show_icons=true&bg_color=00000000)
   

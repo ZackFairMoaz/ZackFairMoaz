@@ -21,14 +21,9 @@
 </div>
 
 <h1 align="center">
-  Hey there, Welcome to my Profile!
+  Welcome to my Portfolio 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="800" height="300"/>
-</div>
-
 
 ### :man_technologist: About Me :
 I am a MLOps Engineer | AWS Certified | Azure Certified <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 😃

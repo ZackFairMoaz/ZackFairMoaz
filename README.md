@@ -76,4 +76,4 @@ I am a MLOps Engineer | AWS Certified | Azure Certified <img src="https://media.
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackFairMoaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zackfairmoaz&show_icons=true&bg_color=00000000)

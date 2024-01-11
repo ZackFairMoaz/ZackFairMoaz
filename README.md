@@ -66,5 +66,7 @@ I am a Machine Learning Engineer | AWS Certified | Azure Certified <img src="htt
 
 ### :fire: My Stats :
 <div id="Stats" align="center">
+  
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zackfairmoaz&show_icons=true&bg_color=00000000)
+  
 </div>
